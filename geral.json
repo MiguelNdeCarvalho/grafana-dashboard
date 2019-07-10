@@ -18,6 +18,12 @@
       },
       {
         "type": "panel",
+        "id": "grafana-piechart-panel",
+        "name": "Pie Chart",
+        "version": "1.3.3"
+      },
+      {
+        "type": "panel",
         "id": "graph",
         "name": "Graph",
         "version": ""
