@@ -21528,6 +21528,7 @@
       "30d"
     ]
   },
+  "refresh": "5m",
   "timezone": "browser",
   "title": "System Data",
   "uid": "oW1Z_AIWz",
