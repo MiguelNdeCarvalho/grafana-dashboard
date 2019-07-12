@@ -56,7 +56,7 @@
       }
     ]
   },
-  "editable": true,
+  "editable": false,
   "gnetId": 5345,
   "graphTooltip": 0,
   "id": null,
